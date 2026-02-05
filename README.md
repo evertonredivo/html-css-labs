@@ -1,4 +1,4 @@
-Vou refatorar o código de forma profissional, aplicando boas práticas, organização e melhorias na estrutura:
+Código refatorado por Claude.AI, aplicando boas práticas, organização e melhorias na estrutura:
 
 ```html
 <!DOCTYPE html>
